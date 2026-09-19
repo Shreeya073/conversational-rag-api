@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiomysql
+redis
+pydantic
+pydantic-settings
+python-dotenv
+email-validator
+httpx
